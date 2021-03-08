@@ -8,3 +8,4 @@ My personal [scoop](https://github.com/lukesampson/scoop) "get-all-my-stuff" scr
 * For hiding windows control menu (minimising&closing) in the dribbblish theme: ```edit your Spotify shortcut and add flag --transparent-window-controls after the Spotify.exe ```
 
 ![windows-shortcut-instruction.png](https://github.com/morpheusthewhite/spicetify-themes/blob/master/Dribbblish/windows-shortcut-instruction.png)
+* Use ```scoop update *``` command to update all apps.
