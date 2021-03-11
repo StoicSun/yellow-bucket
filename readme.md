@@ -1,6 +1,6 @@
-# Yellow-Bucket
-
-My personal [scoop](https://github.com/lukesampson/scoop) "get-all-my-stuff" script.  
+# Personal scripts and configs
+## Contents
+A [scoop](https://github.com/lukesampson/scoop) "get-all-my-stuff" script.  
 **Disclaimer**: I don't have much experience using scoop so please refrain from using my script lest it causes unwanted problems for you 😓    
 
 ### Notes
